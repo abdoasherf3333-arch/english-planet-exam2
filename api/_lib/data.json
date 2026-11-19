@@ -1,0 +1,381 @@
+{
+ "M": [
+  [
+   "She ............ up at 7 o'clock every day.",
+   [
+    "wake",
+    "wakes",
+    "is waking",
+    "waking"
+   ],
+   1,
+   "الفاعل She مفرد وده Present Simple، فالفعل بياخد s: wakes."
+  ],
+  [
+   "I sometimes ............ the computer in my science class.",
+   [
+    "use",
+    "uses",
+    "used",
+    "using"
+   ],
+   0,
+   "الفاعل I مع Present Simple، فالفعل بيبقى زي ما هو: use."
+  ],
+  [
+   "Ali ............ late for school.",
+   [
+    "never is",
+    "is never",
+    "never are",
+    "are never"
+   ],
+   1,
+   "ظرف التكرار never بييجي بعد فعل to be: is never."
+  ],
+  [
+   "How ............ do you use the computer in your school? – Always.",
+   [
+    "much",
+    "many",
+    "often",
+    "tall"
+   ],
+   2,
+   "الإجابة Always بتدل على التكرار، فالسؤال بـ How often."
+  ],
+  [
+   "My father and my uncle ............ the train to go to Alexandria.",
+   [
+    "usually takes",
+    "usually take",
+    "takes usually",
+    "take usually"
+   ],
+   1,
+   "الفاعل جمع فالفعل من غير s، وظرف التكرار usually قبل الفعل: usually take."
+  ],
+  [
+   "Mariam doesn't ............ basketball well.",
+   [
+    "plays",
+    "play",
+    "playing",
+    "played"
+   ],
+   1,
+   "بعد doesn't بييجي الفعل في المصدر: play."
+  ],
+  [
+   "She ............ visit her grandma two days ago.",
+   [
+    "isn't",
+    "don't",
+    "doesn't",
+    "didn't"
+   ],
+   3,
+   "كلمة ago بتدل على الماضي البسيط، فالنفي بـ didn't."
+  ],
+  [
+   "Dr. Samira Moussa ............ a hero.",
+   [
+    "is",
+    "be",
+    "was",
+    "were"
+   ],
+   2,
+   "الجملة عن شخصية من الماضي والفاعل مفرد: was."
+  ],
+  [
+   "Where did you ............ last summer?",
+   [
+    "go",
+    "goes",
+    "went",
+    "going"
+   ],
+   0,
+   "بعد did بييجي الفعل في المصدر: go."
+  ],
+  [
+   "Layla ............ an app to learn words at the moment.",
+   [
+    "use",
+    "uses",
+    "used",
+    "is using"
+   ],
+   3,
+   "at the moment معناها دلوقتي، يعني Present Continuous: is using."
+  ],
+  [
+   "Look! The boy ............ fast.",
+   [
+    "running",
+    "run",
+    "is run",
+    "is running"
+   ],
+   3,
+   "Look! بتدل على حاجة بتحصل دلوقتي: is running."
+  ],
+  [
+   "Samira Moussa was ............ in Egypt in 1917.",
+   [
+    "bear",
+    "born",
+    "borne",
+    "barn"
+   ],
+   1,
+   "was born معناها اتولدت."
+  ],
+  [
+   "............ means very brave.",
+   [
+    "Tall",
+    "Short",
+    "Sad",
+    "Courageous"
+   ],
+   3,
+   "Courageous معناها شجاع جدًا."
+  ],
+  [
+   "The opposite of the word \"difficult\" is ............ .",
+   [
+    "hard",
+    "smart",
+    "easy",
+    "slow"
+   ],
+   2,
+   "عكس difficult (صعب) هو easy (سهل)."
+  ],
+  [
+   "A ............ is a device used for recording sound.",
+   [
+    "printer",
+    "speaker",
+    "keyboard",
+    "microphone"
+   ],
+   3,
+   "microphone هو الجهاز اللي بيسجل الصوت."
+  ],
+  [
+   "Teamwork helps students to be ............ thinkers.",
+   [
+    "bad",
+    "terrible",
+    "sad",
+    "creative"
+   ],
+   3,
+   "المعنى الإيجابي المناسب للجملة: creative (مبدعين)."
+  ],
+  [
+   "We can turn the word \"achieve\" into a noun by adding the suffix ............ .",
+   [
+    "-ment",
+    "-or",
+    "-ly",
+    "-tion"
+   ],
+   0,
+   "achieve + ment = achievement."
+  ]
+ ],
+ "O": [
+  [
+   "Ali is never late for school.",
+   "never بتيجي بعد is."
+  ],
+  [
+   "Where did you go yesterday?",
+   "ترتيب السؤال: كلمة السؤال + did + الفاعل + الفعل."
+  ],
+  [
+   "Nada is doing her homework now.",
+   "Present Continuous: الفاعل + is + الفعل ing."
+  ],
+  [
+   "Samira Moussa was born in Egypt in 1917.",
+   "المكان قبل السنة: was born in Egypt in 1917."
+  ]
+ ],
+ "T": [
+  [
+   "Nada ............ (don't) usually get up before seven.",
+   [
+    "doesn't"
+   ],
+   "الفاعل Nada مفرد فالنفي بـ doesn't."
+  ],
+  [
+   "Omar ............ (go often) to school by car.",
+   [
+    "often goes"
+   ],
+   "ظرف التكرار قبل الفعل، والفاعل مفرد فالفعل بياخد s: often goes."
+  ],
+  [
+   "My father ............ (never play) chess at home.",
+   [
+    "never plays"
+   ],
+   "الفاعل مفرد فالفعل بياخد s: never plays."
+  ],
+  [
+   "Leen ............ (works usually) on Saturdays.",
+   [
+    "usually works"
+   ],
+   "usually قبل الفعل: usually works."
+  ],
+  [
+   "It ............ (usually / is) very hot in summer.",
+   [
+    "is usually"
+   ],
+   "ظرف التكرار بعد فعل to be: is usually."
+  ]
+ ],
+ "U": [
+  [
+   "I <u>watch</u> TV now.",
+   [
+    "am watching"
+   ],
+   "now بتدل على Present Continuous: am watching."
+  ],
+  [
+   "He <u>study</u> at the moment.",
+   [
+    "is studying"
+   ],
+   "at the moment بتدل على Present Continuous: is studying."
+  ],
+  [
+   "What <u>is</u> you doing now?",
+   [
+    "are"
+   ],
+   "الفاعل you بياخد are."
+  ],
+  [
+   "He <u>sleep</u> now.",
+   [
+    "is sleeping"
+   ],
+   "now بتدل على Present Continuous: is sleeping."
+  ]
+ ],
+ "D": [
+  [
+   "Ali is asking Mona some questions.",
+   [
+    [
+     "Ali: How are you?<br><b>Mona: ❶ ............</b>",
+     [
+      "I'm fine, thank you.",
+      "I'm 13 years old.",
+      "I'm from Cairo.",
+      "My name is Mona."
+     ],
+     0,
+     "السؤال How are you? إجابته الطبيعية I'm fine, thank you."
+    ],
+    [
+     "<b>Ali: ❷ ............ ?</b><br>Mona: I'm 13 years old.",
+     [
+      "Where are you from?",
+      "How old are you?",
+      "What is your name?",
+      "What is your favorite sport?"
+     ],
+     1,
+     "الإجابة بالعمر، فالسؤال How old are you?"
+    ],
+    [
+     "<b>Ali: ❸ ............ ?</b><br>Mona: I'm from Cairo.",
+     [
+      "How old are you?",
+      "Who are you?",
+      "Where are you from?",
+      "What is your job?"
+     ],
+     2,
+     "الإجابة عن بلدها، فالسؤال Where are you from?"
+    ]
+   ]
+  ],
+  [
+   "Ahmed is at a shoe shop.",
+   [
+    [
+     "Seller: Can I help you?<br><b>Ahmed: ❶ ............</b>",
+     [
+      "Yes, I want a pair of shoes.",
+      "No, I'm 13 years old.",
+      "I like football.",
+      "It's very hot."
+     ],
+     0,
+     "الرد المناسب على Can I help you? هو طلب المنتج."
+    ],
+    [
+     "<b>Seller: ❷ ............ ?</b><br>Ahmed: My size is 42.",
+     [
+      "What size are you?",
+      "How old are you?",
+      "Where are you from?",
+      "Who is your friend?"
+     ],
+     0,
+     "الإجابة عن المقاس، فالسؤال What size are you?"
+    ],
+    [
+     "Ahmed: ❹ ............ ?<br>Seller: Yes, the changing room is over there.",
+     [
+      "Can I try them on?",
+      "What is your name?",
+      "How often do you wear them?",
+      "Where do you live?"
+     ],
+     0,
+     "رد البائع عن غرفة القياس، فالسؤال Can I try them on?"
+    ]
+   ]
+  ],
+  [
+   "Ahmed is asking Ali about his favorite sport.",
+   [
+    [
+     "Ahmed: What is your favorite sport?<br><b>Ali: ❶ ............</b>",
+     [
+      "Football!",
+      "Yes, I do.",
+      "At the club.",
+      "Twice a week."
+     ],
+     0,
+     "السؤال عن الرياضة المفضلة، فالإجابة اسم رياضة."
+    ],
+    [
+     "<b>Ahmed: ❸ ............ ?</b><br>Ali: I play it with my friends.",
+     [
+      "Where do you play it?",
+      "Who do you play it with?",
+      "How often do you play it?",
+      "What is your name?"
+     ],
+     1,
+     "الإجابة with my friends، فالسؤال Who do you play it with?"
+    ]
+   ]
+  ]
+ ]
+}
